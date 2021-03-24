@@ -1,5 +1,3 @@
-Edit README.MD and write the changes made in the project
-
 # MainActivity.java
 
 1. Add an AppBar menu that uses an 'add' button to open an item entry dialog to add new list entries.
@@ -18,3 +16,5 @@ Edit README.MD and write the changes made in the project
 # activity_main.xml
 
 1. The only thing our activity_main.xml file will need is a TextView. Remove all unnecessary buttons, and the ScrollView (note that we would probably prefer to keep the ScrollView in place, but it interferes with the TouchGesture control, since a long press on a ScrollView is used to initiate a scroll action. If we wanted to include both types of behaviour - scrolling through the list and a long press to clear - then we would be better off using a RecyclerView - but we're not quite there yet).And, in general, please be careful to choose appropriate naming conventions for all identifiers (i.e. variables, methods, etc.). Make sure your code is well-formatted before submission (no unnecessary whitespace, good indenting and spacing). And, of course, make sure it runs without errors!
+
+# Edit README.MD and write the changes made in the project
