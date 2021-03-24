@@ -1,3 +1,5 @@
+Edit README.MD and write the changes made in the project
+
 # MainActivity.java
 
 1. Add an AppBar menu that uses an 'add' button to open an item entry dialog to add new list entries.
